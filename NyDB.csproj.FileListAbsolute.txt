@@ -1,0 +1,10 @@
+C:\Users\larsgabriel.nordqvi\Desktop\NYDB\NyDB\NyDB\bin\Debug\NyDB.exe.config
+C:\Users\larsgabriel.nordqvi\Desktop\NYDB\NyDB\NyDB\bin\Debug\NyDB.exe
+C:\Users\larsgabriel.nordqvi\Desktop\NYDB\NyDB\NyDB\bin\Debug\NyDB.pdb
+C:\Users\larsgabriel.nordqvi\Desktop\NYDB\NyDB\NyDB\obj\Debug\NyDB.csproj.AssemblyReference.cache
+C:\Users\larsgabriel.nordqvi\Desktop\NYDB\NyDB\NyDB\obj\Debug\NyDB.Form1.resources
+C:\Users\larsgabriel.nordqvi\Desktop\NYDB\NyDB\NyDB\obj\Debug\NyDB.Properties.Resources.resources
+C:\Users\larsgabriel.nordqvi\Desktop\NYDB\NyDB\NyDB\obj\Debug\NyDB.csproj.GenerateResource.cache
+C:\Users\larsgabriel.nordqvi\Desktop\NYDB\NyDB\NyDB\obj\Debug\NyDB.csproj.CoreCompileInputs.cache
+C:\Users\larsgabriel.nordqvi\Desktop\NYDB\NyDB\NyDB\obj\Debug\NyDB.exe
+C:\Users\larsgabriel.nordqvi\Desktop\NYDB\NyDB\NyDB\obj\Debug\NyDB.pdb
